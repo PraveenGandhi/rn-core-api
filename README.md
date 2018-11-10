@@ -1,4 +1,4 @@
-# web-corefx
+# rn-api
 
 ServiceStack ASP.NET Core Empty Web project on Openshift
 
