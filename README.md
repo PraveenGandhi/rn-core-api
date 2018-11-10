@@ -1,6 +1,6 @@
 # web-corefx
 
-ServiceStack ASP.NET Core Empty Web project on .NET Framework
+ServiceStack ASP.NET Core Empty Web project on Openshift
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/csharp-templates/web.png)](http://web.web-templates.io/)
 
