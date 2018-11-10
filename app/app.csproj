@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.3.1" />
     <PackageReference Include="Microsoft.AspNetCore" Version="2.*" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics" Version="2.*" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.*" />
@@ -25,6 +26,10 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="2.*" />
 
     <PackageReference Include="ServiceStack.Core" Version="5.*" />
+
+    <PackageReference Include="ServiceStack.OrmLite.Sqlite.Core" Version="5.*" />
+
+    <PackageReference Include="ServiceStack.Server.Core" Version="5.*" />
   </ItemGroup>
 
   <ItemGroup>
