@@ -1,9 +1,0 @@
-/home/jairam/work/github/ss-api/app/app.ServiceModel/bin/Debug/netcoreapp2.1/app.ServiceModel.deps.json
-/home/jairam/work/github/ss-api/app/app.ServiceModel/bin/Debug/netcoreapp2.1/app.ServiceModel.dll
-/home/jairam/work/github/ss-api/app/app.ServiceModel/bin/Debug/netcoreapp2.1/app.ServiceModel.pdb
-/home/jairam/work/github/ss-api/app/app.ServiceModel/obj/Debug/netcoreapp2.1/app.ServiceModel.csprojAssemblyReference.cache
-/home/jairam/work/github/ss-api/app/app.ServiceModel/obj/Debug/netcoreapp2.1/app.ServiceModel.csproj.CoreCompileInputs.cache
-/home/jairam/work/github/ss-api/app/app.ServiceModel/obj/Debug/netcoreapp2.1/app.ServiceModel.AssemblyInfoInputs.cache
-/home/jairam/work/github/ss-api/app/app.ServiceModel/obj/Debug/netcoreapp2.1/app.ServiceModel.AssemblyInfo.cs
-/home/jairam/work/github/ss-api/app/app.ServiceModel/obj/Debug/netcoreapp2.1/app.ServiceModel.dll
-/home/jairam/work/github/ss-api/app/app.ServiceModel/obj/Debug/netcoreapp2.1/app.ServiceModel.pdb
